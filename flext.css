@@ -1,0 +1,16 @@
+.GregsFlexBox{
+    display: flex;
+    background-color: yellow;
+    flex-direction: column;
+    flex-wrap:wrap;
+    height: 400px;
+    align-items:center;
+    justify-content:flex-end;
+    /* align-content:flex-start; */
+    align-content:space-around;
+}
+
+.GregsFlexBox img{
+    height: 300px;
+    width: auto;
+}
